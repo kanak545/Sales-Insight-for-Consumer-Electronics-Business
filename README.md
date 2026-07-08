@@ -83,7 +83,7 @@ Sales-Insights-Project/
 │   └── sales_insight.twb        # Tableau workbook
 │
 ├── Presentation/
-│   └── dashboard.png            # Dashboard screenshot used in the README
+│   └── SalesInsight.pptx           # Dashboard
 │
 └── README.md
 ```
