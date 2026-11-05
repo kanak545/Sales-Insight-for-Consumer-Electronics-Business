@@ -77,7 +77,7 @@ Sales-Insights-Project/
 ├── db_dump.sql                  # Database dump used to create the sales database
 │
 ├── SQL/
-│   └── sales_analysis.sql       # SQL queries used for data analysis
+│   └── sales_analysis.sql (sales_analysis.pdf)      # SQL queries used for data analysis
 │
 ├── Tableau/
 │   └── sales_insight.twb        # Tableau workbook
